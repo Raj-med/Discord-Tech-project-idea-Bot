@@ -1,7 +1,7 @@
 # Discord-Tech-project-idea-Bot
 A simple Discord bot that provides random tech project ideas and includes a daily request limit for each user.
 
-##Features
+## Features
 Greeting Message: When a user says "hi", "hello", "hey", or "hola", the bot responds with instructions on how to get tech project ideas.
 Tech Project Ideas: Users can request a random tech project idea by typing !idea.
 Rate Limiting: Each user can make up to 25 requests per day.
@@ -11,7 +11,7 @@ Help Command: Provides information on how to use the bot.
 ### Installation
 Clone the Repository:
 
-bash
+
 git clone https://github.com/yourusername/tech-project-idea-bot.git
 cd tech-project-idea-bot
 
@@ -21,7 +21,7 @@ Make sure you have Python 3.8 or higher installed. Then, install the required li
 
 
 pip install discord apscheduler
-#####Setup:
+##### Setup:
 
 Replace "YOUR_DISCORD_BOT_TOKEN" in client.run("YOUR_DISCORD_BOT_TOKEN") with your actual Discord bot token.
 Running the Bot
