@@ -1,5 +1,7 @@
 # Discord-Tech-project-idea-Bot
-A simple Discord bot that provides random tech project ideas and includes a daily request limit for each user.
+A  Discord bot that provides random tech project ideas and includes a daily request limit for each user.
+
+![](https://github.com/Raj-med/Discord-Tech-project-idea-Bot/blob/main/ezgif-1-d3debed2c8.gif)
 
 ## Features
 Greeting Message: When a user says "hi", "hello", "hey", or "hola", the bot responds with instructions on how to get tech project ideas.
@@ -12,7 +14,7 @@ Help Command: Provides information on how to use the bot.
 Clone the Repository:
 
 
-git clone https://github.com/yourusername/tech-project-idea-bot.git
+git clone[ https://github.com/yourusername/tech-project-idea-bot.git](https://github.com/Raj-med/Discord-Tech-project-idea-Bot.git)
 cd tech-project-idea-bot
 
 
