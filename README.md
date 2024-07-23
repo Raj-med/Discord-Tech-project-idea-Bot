@@ -39,5 +39,5 @@ The bot uses the apscheduler library to reset the request counts daily at midnig
 MIT
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-########## Contact
+######## Contact
 For questions or suggestions, please open an issue on the GitHub repository.
