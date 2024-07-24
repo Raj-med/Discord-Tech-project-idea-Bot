@@ -31,15 +31,15 @@ Running the Bot
 
 
 python bot.py
-###### Commands
+#### Commands
 !idea: Get a random tech project idea (25 requests per day).
 !help: Display help information.
-######## Notes
+#### Notes
 Make sure your bot has permission to read and send messages in the channels where it will be used.
 The bot uses the apscheduler library to reset the request counts daily at midnight UTC.
-####### License
+#### License
 MIT
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-######## Contact
+#### Contact
 For questions or suggestions, please open an issue on the GitHub repository.
