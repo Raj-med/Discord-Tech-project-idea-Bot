@@ -14,7 +14,7 @@ Help Command: Provides information on how to use the bot.
 Clone the Repository:
 
 
-git clone[ https://github.com/yourusername/tech-project-idea-bot.git](https://github.com/Raj-med/Discord-Tech-project-idea-Bot.git)
+git clone[ https://github.com/Raj-med/Discord-Tech-project-idea-Bot.git]
 cd tech-project-idea-bot
 
 
